@@ -1,3 +1,3 @@
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://Kannolas.github.io/rsschool-cv/cv
 # rsschool-cv
 CV for RS school
