@@ -11,7 +11,7 @@ __About myself__
 Beginning WEB-programmer, first year university student
 
 __skills__
-* HTML5, CSS3
-* JavaScript Basics
-* Git, GitHub
-* Python Basics
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- Python Basics
